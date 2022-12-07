@@ -7,5 +7,5 @@ Averaging takes the average of each pixels' neighboring pixels  and replaces the
 My program uses 8 different configurations of neighboring pixels and then chooses the average that is most similar to the pixel that is being looked at. 
 
 Inputs: inFile- greyscale image with header
-        threshold value
+threshold value
         
