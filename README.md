@@ -8,4 +8,3 @@ My program uses 8 different configurations of neighboring pixels and then choose
 
 Inputs: inFile- greyscale image with header
 threshold value
-        
